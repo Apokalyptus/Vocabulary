@@ -1,0 +1,1 @@
+INSERT INTO `vocable` (`id`, `german`, `hanze`, `pinyin`) VALUES ('1', 'hübscher Kerl', '帅哥', 'shuàigē');

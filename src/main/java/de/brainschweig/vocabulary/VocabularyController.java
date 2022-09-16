@@ -27,6 +27,7 @@ public class VocabularyController {
         v.setHanze(hanze);
         v.setPinyin(pinyin);
         v.setGerman(german);
+        vocableRepository.save(v);  
         return "Saved";
     }
 
